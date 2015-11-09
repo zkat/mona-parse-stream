@@ -1,6 +1,6 @@
 {
   "name": "@mona/parse-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Runs mona parsers on node streams",
   "main": "lib/index.js",
   "files": [
